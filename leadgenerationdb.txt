@@ -1,0 +1,27 @@
+Employee
+--------
+
+employeeid
+firstname
+lastname
+dob
+gender
+emailid
+mobileno
+address
+state
+city
+managerid
+photograph
+
+
+
+SESSION
+-------
+
+- It is special buffer which automatically creates on client machine when 
+  user open the web browser.
+
+- This session buffer further used by server to handle the client machine.
+
+- Value of session shared by all the routers / actions.
